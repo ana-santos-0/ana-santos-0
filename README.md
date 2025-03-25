@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @ana-santos-0
-- 👀 I’m interested in learning Java fast
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: send message
-- 😄 Pronouns: she/they
 - ⚡ Fun fact: I have an unsual quantity of striped shirts.
 
 <!---
